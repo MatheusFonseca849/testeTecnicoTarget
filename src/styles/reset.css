@@ -42,3 +42,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+button{
+	background-color: transparent;
+    border: 1px solid white;
+    padding: 16px 18px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 54px;
+    color: white;
+}
