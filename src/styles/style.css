@@ -4,7 +4,6 @@ body {
     background: rgb(101, 13, 12);
     background: linear-gradient(129deg, rgba(101, 13, 12, 1) 4%, rgba(174, 9, 23, 1) 22%, rgba(100, 13, 14, 1) 90%, rgba(224, 0, 26, 1) 100%);
     color: #FFF;
-    overflow-y: hidden;
 }
 
 main {
@@ -125,6 +124,8 @@ section button {
 .outputForm {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     gap: 16px;
 }
 
