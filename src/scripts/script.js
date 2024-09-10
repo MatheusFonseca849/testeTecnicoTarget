@@ -76,7 +76,7 @@ const exercise4 = () => {
     let template = createTemplate()
 
     let answer = exercicio4()
-    console.log(answer)
+    
     let p = document.createElement("div")
     let ul = document.createElement("ul")
     p.innerHTML = "A porcentagem de faturamento para cada estado é:"
